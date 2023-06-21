@@ -1,5 +1,5 @@
 # Responsive Travel Website
-## [Watch it on youtube](https://youtu.be/cgV2tN8gxCg)
+
 ### Responsive Travel Website
 
 - Responsive Travel Website Design Using HTML CSS & JavaScript
