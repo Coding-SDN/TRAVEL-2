@@ -443,7 +443,7 @@ img {
   font-weight: 500;
 }
 
-.popular__loaction i {
+.popular__location i {
   font-size: 1rem;
 }
 
@@ -723,7 +723,7 @@ img {
   .about__data .section__title,
   .join__data,
   .join__data, .section__title{
-    text-align: initial;
+    text-align: center;
   }
 
   .popular__container{
@@ -782,10 +782,6 @@ img {
 
   .section{
     padding-block: 7rem 2rem;
-  }
-
-  .section__title{
-    text-align: center;
   }
 
   .nav{
